@@ -1,0 +1,1 @@
+java -jar target/jasonp01-with-dependencies.jar
